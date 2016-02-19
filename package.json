@@ -1,15 +1,15 @@
 {
   "name": "jest-cli",
   "description": "Painless JavaScript Unit Testing.",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "main": "src/jest.js",
   "dependencies": {
     "chalk": "^1.1.1",
     "cover": "^0.2.9",
     "diff": "^2.1.1",
     "graceful-fs": "^4.1.2",
-    "istanbul": "^0.3.19",
-    "jsdom": "^7.2.0",
+    "istanbul": "^0.4.2",
+    "jsdom": "^8.0.4",
     "json-stable-stringify": "^1.0.0",
     "mkdirp": "^0.5.1",
     "node-haste": "^1.2.8",
