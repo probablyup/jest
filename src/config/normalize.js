@@ -147,6 +147,7 @@ function normalize(config, argv) {
         break;
 
       case 'cacheDirectory':
+      case 'jsdomModulePath':
       case 'testRunner':
       case 'scriptPreprocessor':
       case 'setupTestFrameworkScriptFile':
